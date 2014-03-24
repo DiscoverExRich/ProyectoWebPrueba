@@ -21,10 +21,9 @@
   <?php include("includes/cabecera.php");?>
   <div class="clearfloat"></div>
   <?php include("includes/menu.php"); ?>
-  <?php include("includes/slider.php"); ?>
   <!-- InstanceEndEditable --></div>
   <div class="sidebar1"><!-- InstanceBeginEditable name="ContenidoIzq" -->
-    <h1>Su Proyecto Web</h1>
+    <h1>Servicios</h1>
     <p>AyZWeb est&aacute; formado por un programador freelance experimentado en dise&ntilde;o y desarrollo&nbsp;<strong>Web</strong>. Gracias a mi formaci&oacute;n, experiencia y contactos, puedo ofrecer un servicio integral de desarrollo personalizado.</p>
     <p>&iquest;Quiere saber c&oacute;mo soy y qui&eacute;n soy?, perm&iacute;tame presentarme a trav&eacute;s de mi VideoCV en&nbsp;<a href="http://es.youtube.com/watch?v=jXDc31_-1IY" target="_blank">castellano</a>&nbsp;y en&nbsp;<a href="http://es.youtube.com/watch?v=61terWU89ws" target="_blank">ingl&eacute;s</a>.</p>
     <p>Desde hace ya m&aacute;s de 7 a&ntilde;os trabajo como desarrollador freelance para empresas de dise&ntilde;o como&nbsp;<a href="http://www.grafital.com/" target="_blank">Grafital</a>,&nbsp;<a href="http://www.arixta.com/" target="_blank">Arixta</a>,&nbsp;<a href="http://www.artde3.com/" target="_blank">Artde3</a>, etc... aunque tambi&eacute;n realizo desarrollos particulares para clientes como&nbsp;<a href="http://www.scmnetwork.es/" target="_blank">scmnetwork.es</a>,&nbsp;<a href="http://www.primerframe.com/" target="_blank">primerframe.com</a>, etc... En el portfolio puede ver mis &uacute;ltimos trabajos.</p>

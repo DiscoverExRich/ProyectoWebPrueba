@@ -88,9 +88,10 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 }
 .footer {
 	padding: 10px 0;
-	background: #CCC49F;
+	background: #B5B5B5;
 	position: relative;
 	clear: both;
+	text-align: center;
 }
 .fltrt {  
 	float: right;
