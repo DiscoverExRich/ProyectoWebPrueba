@@ -1,0 +1,21 @@
+﻿[2014-03-26 18:16:22.000000 ::1  - Debug ] Estro es una prueba
+
+[2014-03-26 18:16:22.000000 ::1  - Error ] Se ha producido un error en el método xxxx. el valor de la variable es 
+
+[2014-03-26 18:16:22.000000 ::1  - Info ] Navegador: Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0
+
+[2014-03-26 18:17:19.000000 ::1  - Debug ] Estro es una prueba
+
+[2014-03-26 18:17:19.000000 ::1  - Error ] Se ha producido un error en el método xxxx. el valor de la variable es 
+
+[2014-03-26 18:17:38.000000 ::1  - Debug ] Estro es una prueba
+
+[2014-03-26 18:18:47.000000  - Debug ] Estro es una prueba
+
+[2014-03-26 18:19:05.000000 - Debug ] Estro es una prueba
+
+[2014-03-26 18:20:20.000000 - Debug ] Estro es una prueba
+
+[2014-03-26 18:20:22.000000 - Debug ] Estro es una prueba
+
+[2014-03-26 18:23:18.000000 - Debug ] Estro es una prueba

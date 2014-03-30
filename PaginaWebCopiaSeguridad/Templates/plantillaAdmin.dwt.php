@@ -14,7 +14,7 @@
 
 <div class="container">
   <div class="header"><a href="#"></a> 
-    <!-- --><?php  include("../includes/cabecera_admin.php")?>
+  	<?php  include("../includes/cabecera_admin.php")?>
   </div>
   <div class="sidebar1">
   	<?php include("../includes/menuizquierda_admin.php")?>

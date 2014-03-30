@@ -11,7 +11,6 @@
 <link rel="stylesheet" href="../css/menu.css" type="text/css" >
 <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,700' rel='stylesheet' type='text/css'>
-<?php include("includes/google.php"); ?>
 </head>
 
 <body>

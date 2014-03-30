@@ -1,0 +1,7 @@
+[2014-03-26 18:23:17.000000 - Debug ] Estro es una prueba
+
+[2014-03-26 18:23:37.000000 - Debug ] Estro es una prueba
+
+[2014-03-26 18:24:34.000000 - Debug ] Estro es una prueba
+
+[2014-03-26 18:24:40.000000 - Debug ] Estro es una prueba

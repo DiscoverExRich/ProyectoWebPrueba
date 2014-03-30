@@ -14,13 +14,18 @@
 
 <div class="container">
   <div class="header"><a href="#"></a> 
-    <!-- --><?php  include("../includes/cabecera_admin.php")?>
+  	<?php  include("../includes/cabecera_admin.php")?>
   </div>
   <div class="sidebar1">
   	<?php include("../includes/menuizquierda_admin.php")?>
   </div>
   <div class="content"><!-- InstanceBeginEditable name="parteDerechaAdmin" -->
     <h1>Bienvenido al panel de Administraci&oacute;n de AyZWeb</h1>
+    <p>&nbsp;</p>
+    <p>Panel de Administraci&oacute;n de la p&aacute;gina web</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
   <!-- InstanceEndEditable -->
   	
   </div>
